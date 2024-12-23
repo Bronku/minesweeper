@@ -1,0 +1,5 @@
+.cache
+build
+.zed
+.clang-format
+.DS_Store
